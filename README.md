@@ -1,5 +1,5 @@
 # <p align="center">rand-number-gen</p>
-<h3>Basic CPP random number generator in range</h3><br>
+<h3>Basic CPP random number generator in range</h3>
 <h3>About:</h3>
 This is mainly for school projects for a reminder.<br>
 Pros:
