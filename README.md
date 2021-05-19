@@ -4,9 +4,9 @@
 This is mainly for school projects for a reminder.<br>
 Pros:
 <ul>
-<li>**Beginner** cpp programmers.</li>
-<li>**Quick** straight forward explination.</li>
-<li>Short and **easy to remember** code.</li>
+<li><b>Beginner</b> cpp programmers.</li>
+<li><b>Quick</b> straight forward explination.</li>
+<li>Short and <b>easy to remember</b> code.</li>
 </ul>
 
 Hiya! 👋
